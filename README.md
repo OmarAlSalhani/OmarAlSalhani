@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @OmarAlSalhani
 - 👀 I’m interested in .NET C#
-- 🌱 I’m currently learning Flutter Mobile Development
-- 💞️ I’m looking to collaborate on C# Desktop Apps & Flutter
 - 📫 How to reach me 
 - Facebook : www.fb.com/omarsalhani
-- WhatsApp : +963 962 434 991
+- WhatsApp : +20 0120 490 8375
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OmarAlSalhani)](https://github.com/ryo-ma/github-profile-trophy)
 
